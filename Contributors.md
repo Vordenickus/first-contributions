@@ -39,6 +39,7 @@
 - [Amanda](https://github.com/amanda-goncalvess)
 - [Darlene] (https://github.com/D010resHaze)
 - Ak
+- [Daniil]
 - [Bruce Felix](https://github.com/BruceFelix)
 - [Dylan Dylan](https://github.com/WateryWhale)
 - [Michael Michael](https://github.com/ntirinigaSr)
